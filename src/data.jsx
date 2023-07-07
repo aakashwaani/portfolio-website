@@ -1,0 +1,30 @@
+export const skills =[
+    {
+        title:'HTML',
+        image:'https://d26c7l40gvbbg2.cloudfront.net/tool_icons/html.svg'
+    },
+    {
+        title:'CSS',
+        image:'https://d26c7l40gvbbg2.cloudfront.net/tool_icons/css.svg'
+    },
+    {
+        title:'JavaScript',
+        image:'https://d26c7l40gvbbg2.cloudfront.net/tool_icons/javascript.svg'
+    },
+    {
+        title:'Bootstrap',
+        image:'https://d26c7l40gvbbg2.cloudfront.net/tool_icons/bootstrap.svg'
+    },
+    {
+        title:'React',
+        image:'https://d26c7l40gvbbg2.cloudfront.net/tool_icons/reactjs.svg'
+    },
+    {
+        title:'Git',
+        image:'https://d26c7l40gvbbg2.cloudfront.net/tool_icons/git.svg'
+    },
+    {
+        title:'Github',
+        image:'https://d26c7l40gvbbg2.cloudfront.net/tool_icons/github.svg'
+    },
+]
